@@ -1,6 +1,6 @@
 # MCPSample
 
-MCPSample is a sample project demonstrating the use of the MCP (Modular Component Platform) architecture.
+MCPSample is a sample project demonstrating the use of the MCP (Model Context Protocol) architecture.
 
 ## Features
 
