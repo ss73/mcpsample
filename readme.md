@@ -12,13 +12,15 @@ MCPSample is a sample project demonstrating the use of the MCP (Modular Componen
 To use MCPSample, you need:
 
 - An Azure AI agent configured to answer questions based on your existing knowledgebase
+- Access to Github Copilot
+- Visual Studio Code
 - A Python installation
 
 ## Getting Started
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/mcpsample.git
+    git clone https://github.com/ss73/mcpsample.git
     cd mcpsample
     ```
 
